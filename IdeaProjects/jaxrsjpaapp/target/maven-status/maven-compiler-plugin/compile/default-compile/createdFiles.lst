@@ -1,0 +1,15 @@
+org\supcom\javase\BootStrapEvent.class
+org\supcom\javase\managers\CityManager.class
+org\supcom\javase\models\Country.class
+org\supcom\javase\managers\CountryManager.class
+org\supcom\javase\services\CityService.class
+org\supcom\javase\models\Continent.class
+org\supcom\javase\managers\EntityManagerProvider.class
+org\supcom\javase\services\CountryService.class
+org\supcom\javase\services\TestService.class
+org\supcom\javase\services\CityService$2.class
+org\supcom\javase\services\Config.class
+org\supcom\javase\BoostStrapHttpServer.class
+org\supcom\javase\services\CityService$1.class
+org\supcom\javase\models\City.class
+org\supcom\javase\managers\TransactionManager.class
